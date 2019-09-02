@@ -1,3 +1,2 @@
-# mywebsite
-用python3搭建自己的网站
-不想使用Apache、IIS，那就需要一个HTTP服务，而python自带了一个SimpleHTTPServer库，就可以搭建一个HTTP服务器啦。
+# myblog
+hexo  blog
